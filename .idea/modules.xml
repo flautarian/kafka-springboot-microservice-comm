@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasedomainsMicroservice/BasedomainsMicroservice.iml" filepath="$PROJECT_DIR$/BasedomainsMicroservice/BasedomainsMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmailMicroservice/EmailMicroservice.iml" filepath="$PROJECT_DIR$/EmailMicroservice/EmailMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordermicroservice/OrderMicroservice.iml" filepath="$PROJECT_DIR$/ordermicroservice/OrderMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kafka-java-project.iml" filepath="$PROJECT_DIR$/.idea/kafka-java-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stockmicroservice/stockmicroservice.iml" filepath="$PROJECT_DIR$/stockmicroservice/stockmicroservice.iml" />
+    </modules>
+  </component>
+</project>
